@@ -1,11 +1,7 @@
 package cs.bigdata.Lab2.question1;
-
-
-import org.apache.hadoop.mapreduce.Job;  
 import org.apache.hadoop.io.*;        
 import org.apache.hadoop.mapreduce.Mapper;
 import java.io.IOException;
-import java.util.StringTokenizer;
 
 public class TreesParisMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 	

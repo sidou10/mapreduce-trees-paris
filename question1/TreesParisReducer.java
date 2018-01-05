@@ -1,11 +1,9 @@
 package cs.bigdata.Lab2.question1;
-
 import org.apache.hadoop.io.*;
 import org.apache.hadoop.mapreduce.Reducer;
 import java.io.IOException;
 import java.util.Iterator;
 import org.apache.hadoop.io.IntWritable;
-
 
 public class TreesParisReducer extends Reducer<Text, IntWritable, Text, IntWritable> {
 
