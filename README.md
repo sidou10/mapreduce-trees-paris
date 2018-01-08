@@ -16,16 +16,15 @@ Fagaceae	12
 ```
 - Question 2: height of the heighest tree by type
 ```
-Araucariaceae	140.0
-Betulaceae	260.0
-Bignoniaceae	260.0
-Cannabaceae	295.0
-Cornaceae	120.0
-Cupressaceae	195.0
-Ebenaceae	180.0
-Eucomiaceae	190.0
-Fabaceae	385.0
-Fagaceae	558.0
+Araucariaceae	9.0
+Betulaceae	20.0
+Bignoniaceae	15.0
+Cannabaceae	16.0
+Cornaceae	12.0
+Cupressaceae	20.0
+Ebenaceae	14.0
+Eucomiaceae	12.0
+Fabaceae	11.0
 ...
 ```
 - Question 3: borough of the oldest tree in paris
