@@ -29,6 +29,8 @@ Fagaceae	558.0
 ...
 ```
 - Question 3: borough of the oldest tree in paris
+
+Note that here the output contains one row per tree in the input document. The first line of the output answers the question (the oldest tree (it was planted in 1601) is in the 5th borough).
 ```
 1601	5
 1772	16
