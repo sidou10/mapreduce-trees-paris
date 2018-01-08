@@ -7,7 +7,7 @@ public class TreesParisMapper extends Mapper<LongWritable, Text, Text, FloatWrit
 	
 	private FloatWritable height = new FloatWritable();
 	private final static int type_col = 4;
-	private final static int height_col = 7;	
+	private final static int height_col = 6;	
 	private Text type = new Text();
 
 @Override
